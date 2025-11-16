@@ -1,0 +1,23 @@
+.
+├── README.md
+├── config
+│   └── settings.py
+├── data
+├── demo.py
+├── docs
+├── example_usage.py
+├── install.py
+├── requirements.txt
+├── setup.py
+├── src
+│   ├── analyzers
+│   │   └── style_analyzer.py
+│   ├── generators
+│   │   └── lyrics_generator.py
+│   ├── main.py
+│   ├── scrapers
+│   │   └── lyrics_scraper.py
+│   └── utils
+└── tests
+
+10 directories, 11 files

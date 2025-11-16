@@ -1,0 +1,9 @@
+./src/analyzers/style_analyzer.py
+./src/generators/lyrics_generator.py
+./src/scrapers/lyrics_scraper.py
+./src/main.py
+./config/settings.py
+./install.py
+./demo.py
+./setup.py
+./example_usage.py
